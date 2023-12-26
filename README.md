@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e475naquj3559rzte63tyfpi57v41jkznu73cwmly43&ep=v1_gifs_search&rid=200w.webp&ct=g)]
+[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Shravan Sunil Thakare</h1>
 <h3 align="center"># Full Stack Developer | Crafting Digital Experiences 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
